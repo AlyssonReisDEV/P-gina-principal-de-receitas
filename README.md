@@ -48,8 +48,8 @@ Criar uma página de receita com base em um layout do Figma, respeitando:
 
 ## 🔗 Links
 
-- 🔧 **Repositório:** [GitHub](https://github.com/AlyssonReisDEV/P-gina-principal-de-receitas)
-- 🌐 **Demo online:** [GitHub Pages](https://alyssonreisdev.github.io/P-gina-principal-de-receitas/)
+- 🔧 **Repositório:** [GitHub](https://github.com/AlyssonReisDEV/recipe-page-html-css )
+- 🌐 **Demo online:** [GitHub Pages](https://alyssonreisdev.github.io/recipe-page-html-css/)
 
 ---
 
